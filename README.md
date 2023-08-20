@@ -6,9 +6,9 @@ Fun Bus wants you to make their site more interactive. They are relying on you t
 
 ## Git Setup
 
-* [ ] Create a forked copy of this project.
-* [ ] Clone your OWN version of the repository.
-* [ ] Implement the project on the main branch, committing changes regularly.
+* [*] Create a forked copy of this project.
+* [*] Clone your OWN version of the repository.
+* [*] Implement the project on the main branch, committing changes regularly.
 * [ ] Push commits: `git push origin main`.
 
 ## Running the project
